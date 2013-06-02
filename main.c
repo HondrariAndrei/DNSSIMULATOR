@@ -12,7 +12,7 @@ int allow_squatting = 0;
 int simulation_length = 30;
 volatile int finished = 0;
 
-
+//Ahmad Zaraei
 
 // general stress client
 static void *client(void *arg)
